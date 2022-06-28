@@ -6,3 +6,5 @@ big3.o: big3.c
 	gcc -c big3.c
 add.o: add.c
 	gcc -c add.c
+eo.o: eo.c
+	gcc -c eo.c
