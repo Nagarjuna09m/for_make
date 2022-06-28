@@ -2,5 +2,4 @@
 void main(){
 	big3();
 	add();
-	eo.c();
 }
